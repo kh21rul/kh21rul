@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Khairul Aqram**.\
+Perkenalkan nama saya **Khairul Aqram**.
 
-Saya seorang **Full Stack Web Developer** di [Github](https://kh21rul.github.io/).\
+Saya seorang **Full Stack Web Developer** di [Github](https://kh21rul.github.io/).\\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/khairul-aqram-2b890b228/)ku ya.
 
