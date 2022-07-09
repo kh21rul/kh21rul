@@ -15,15 +15,15 @@
 
 ### Hi! 👋 I'm Khairul.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I'm a Full Stack Developer who loves to create and share projects about web and mobile technology! I enjoy PHP & JavaScript as well as making them my primary language for creating projects.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+Currently, I am pursuing a bachelor's degree in informatics engineering at <a href="https://unimal.ac.id/">Malikussaleh University</a> to develop my skills, especially in the field of websites.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 🔭 know me more at <a href="https://www.instagram.com/khairul_aqram21/">Instagram</a>
+- 🌱 I'm currently learning more about JavaScript
+- 💬 Feel free to ask me about web development like laravel and others
+- 📫 How to contact me: khairulaqram@gmail.com
+- ⚡ Fun fact: I'm a loyal person
 
 ### Github Statistic
 <p align="left">
