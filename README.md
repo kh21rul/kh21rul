@@ -22,7 +22,7 @@ Currently, I am pursuing a bachelor's degree in informatics engineering at <a hr
 - 🔭 know me more at <a href="https://www.instagram.com/khairul_aqram21/">Instagram</a>
 - 🌱 I'm currently learning more about JavaScript
 - 💬 Feel free to ask me about web development like laravel and others
-- 📫 How to contact me: khairulaqram@gmail.com
+- 📫 How to contact me: khairulaqram21@gmail.com
 - ⚡ Fun fact: I'm a loyal person
 
 ### Github Statistic
