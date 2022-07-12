@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <!-- <img src="https://github.com/kh21rul/kh21rul/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/kh21rul" alt="Hello Coders" width="625"/> <br> -->
-<img src="https://github.com/kh21rul/kh21rul/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/kh21rul" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/kh21rul/kh21rul/blob/main/images/fatia.gif?raw=true" href="https://github.com/kh21rul" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <p><strong>I'm a full stack developer
 <br>I am ready to work anytime to help you
