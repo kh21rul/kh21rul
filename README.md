@@ -72,4 +72,5 @@ Currently, I am pursuing a bachelor's degree in informatics engineering at <a hr
    <img src="https://github.com/kh21rul/kh21rul/blob/output/github-contribution-grid-snake-custom.svg" alt="snake">
 </p> -->
 
-https://raw.githubusercontent.com/{kh21rul}/{kh21rul}/output/github-contribution-grid-snake-dark.svg
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/kh21rul/kh21rul/output/github-contribution-grid-snake-dark.svg)
