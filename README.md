@@ -20,7 +20,7 @@ I'm a Full Stack Developer who loves to create and share projects about web and 
 
 Currently, I am pursuing a bachelor's degree in informatics engineering at <a href="https://unimal.ac.id/">Malikussaleh University</a> to develop my skills, especially in the field of websites.
 
-- 🔭 take a peek at my experience <a href="https://kh21rul.my.id/">kh21rul.my.id</a>
+- 🔭 take a peek at my experience <a href="https://kh21rul.web.id/">kh21rul.my.id</a>
 - 🌱 I'm currently learning more about JavaScript
 - 💬 Feel free to ask me about web development like laravel and others
 - 📫 How to contact me: khairulaqram21@gmail.com
