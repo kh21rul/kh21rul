@@ -60,17 +60,5 @@ Currently, I am pursuing a bachelor's degree in informatics engineering at <a hr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![XAMPP](https://img.shields.io/badge/XAMPP-%2300BFC3.svg?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kh21rul/kh21rul/blob/output/github-contribution-grid-snake-custom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kh21rul/kh21rul/blob/output/github-contribution-grid-custom.svg">
-    <img alt="github-snake" src="[github-snake.svg](https://github.com/kh21rul/kh21rul/blob/output/github-contribution-grid-snake-custom.svg)">
-  </picture>
-</p> -->
-
-<!-- <p align="center">
-   <img src="https://github.com/kh21rul/kh21rul/blob/output/github-contribution-grid-snake-custom.svg" alt="snake">
-</p> -->
-
-## Feeding...
+### Feeding...
 ![Snake animation](https://raw.githubusercontent.com/kh21rul/kh21rul/output/github-contribution-grid-snake-custom.svg)
